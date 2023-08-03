@@ -3,7 +3,7 @@
 Professor de programação
 
 - 🕹 Games como hobbie principal
-- 🖥 Dev PHP 
+- 🖥 Dev Fullstack 
 
 
 <div>
