@@ -2,7 +2,6 @@
 
 Professor de programação
 
-- 🕹 Games como hobbie principal
 - 🖥 Dev Fullstack 
 
 
