@@ -1,8 +1,8 @@
-### Olá eu sou o Gustavo
+### Hi my name is Gustavo
 
-Professor de programação
+Programming Teacher
 
-- 🖥 Dev Fullstack 
+- 🖥 Fullstack Developer
 
 
 <div>
