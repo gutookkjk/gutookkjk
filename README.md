@@ -1,29 +1,83 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Hi, I'm Gustavo and  <strong>I'm a web developer</strong>.<br>
- I am currently starting my journey as a freelance developer
-</p>
+# Hi devs 👋
 
-<p align="left">
-  🦄 Languages: **JavaScript, PHP, MySql, HTML, CSS and SASS**
-</p>
+I enjoy creating great websites and helping others do the same.
 
-<p align="left">
-  💼 Tools: **React.js, Node.js and Laravel**
-</p>
+## Mais sobre mim
 
-<p align="left">
-  💌 To contact me: ⤵️
-</p>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-linhares-907b67181" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+```javascript
+const meuPerfil = {
+  name: "Gustavo Vinicius",
+  acknowledgements: "Full STack",
+  primarySkillset: "Some Skills",
+  languages: ["JavaScript", "PHP", "React", "Laravel", "Node"]
+};
 
-  <a href="https://api.whatsapp.com/send?phone=5541997959684&text=Ol%C3%A1,%20vi%20seu%20portf%C3%B3lio%20e%20tenho%20interesse%20em%20seus%20servi%C3%A7os%0A" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
-  <a href="https://www.instagram.com/GustavoViniciusDev/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+}
+```
+
+## Languages ​​and tools
+
+
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    alt="Logo javascript"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+    alt="Logo visual studio"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    alt="Logo git"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+    alt="Logo terminal"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    alt="Logo HTML"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    alt="Logo CSS"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
+    alt="Logo PHP"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+    alt="Logo React"/></code>
+
+## Status
+
+<a href="https://github.com/GustavoViniciusDev" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoviniciusdev&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<a href="https://github.com/GustavoViniciusDev" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoviniciusdev&show_icons=true&theme=dracula&line_height=27" alt="**SGustavo Vinicius** github stats"/>
+</a>
+
+[website]: https://gustavoviniciusdev.com/
+[twitter]: https://twitter.com/gutookkjk/
+[youtube]: https://www.youtube.com/channel/UCUFDwDhN8ldoEyc7fonSLZw
+[instagram]: https://www.instagram.com/GustavoViniciusDev/
+[linkedin]: https://www.linkedin.com/in/gustavo-linhares-907b67181/
+
+<br>
+
+## Social networks
+
+🏡 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [Youtube][youtube] **|**
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
+
