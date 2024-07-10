@@ -1,7 +1,7 @@
 
-# Hi devs 👋
+# Olá 👋
 
-I enjoy creating great websites and helping others do the same.
+My goal is to live off micro-breweries and be able to work wherever and whenever I want.
 
 ## About Me
 
@@ -10,59 +10,15 @@ I enjoy creating great websites and helping others do the same.
 ```javascript
 const myProfile = {
   name: "Gustavo Vinicius",
-  acknowledgements: "Full STack",
+  acknowledgements: "Full Stack Indie Hacker Entrepreneur",
   primarySkillset: "Some Skills",
-  languages: ["JavaScript", "PHP", "React", "Laravel", "Node"]
+  languages: ["TypeScript", "Next", "React", "Postgresql", "Node"]
 };
 
 
 }
 ```
-
-## Languages ​​and tools
-
-
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    alt="Logo javascript"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    alt="Logo visual studio"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-    alt="Logo git"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-    alt="Logo terminal"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="Logo HTML"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="Logo CSS"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
-    alt="Logo PHP"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-    alt="Logo React"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"
-    alt="Logo Laravel"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-    alt="Logo Laravel"/></code>
-    
+   
 
 ## Status
 
@@ -74,17 +30,15 @@ const myProfile = {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoviniciusdev&show_icons=true&theme=dracula&line_height=27" alt="**SGustavo Vinicius** github stats"/>
 </a>
 
-[website]: https://gustavoviniciusdev.com/
-[twitter]: https://twitter.com/gutookkjk/
+[twitter]: https://twitter.com/gutodotpeagape/
 [youtube]: https://www.youtube.com/channel/UCUFDwDhN8ldoEyc7fonSLZw
 [instagram]: https://www.instagram.com/GustavoViniciusDev/
-[linkedin]: https://www.linkedin.com/in/gustavo-linhares-907b67181/
+[linkedin]: https://www.linkedin.com/in/gustavoviniciusdev/
 
 <br>
 
 ## Social networks
 
-🏡 [Website][website] **|**
 🐦 [Twitter][twitter] **|**
 📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
