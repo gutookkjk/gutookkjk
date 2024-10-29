@@ -1,7 +1,7 @@
 
 # Olá 👋
 
-My goal is to live off micro-breweries and be able to work wherever and whenever I want.
+Constantly learning developer.
 
 ## About Me
 
@@ -10,19 +10,13 @@ My goal is to live off micro-breweries and be able to work wherever and whenever
 ```javascript
 const myProfile = {
   name: "Gustavo Vinicius",
-  acknowledgements: "Full Stack Indie Hacker Entrepreneur",
+  acknowledgements: "Full Stack",
   primarySkillset: "Some Skills",
-  languages: ["TypeScript", "Next", "React", "Postgresql", "Node"]
+  languages: ["TypeScript", "Next", "React", "PHP", "Laravel"]
 };
 
 
 }
 ```
 
-## Social networks
-
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
 
