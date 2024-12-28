@@ -12,7 +12,7 @@ const myProfile = {
   name: "Gustavo Vinicius",
   acknowledgements: "Full Stack",
   primarySkillset: "Some Skills",
-  languages: ["TypeScript", "Next", "React", "PHP", "Laravel"]
+  languages: ["TypeScript", "Next", "React", "PHP", "Laravel", "Vue"]
 };
 
 
